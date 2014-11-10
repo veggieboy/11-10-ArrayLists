@@ -1,7 +1,7 @@
 11-10-ArrayLists
 ================
 
-ArrayList homework for 11/10-2014
+ArrayList homework for 11-10-2014
 
 # Objective
 Reason about ArrayList objects, understand how to use indices to access elements in an ArrayList, and apply ArrayLists to count and sort unique words from an input file.
