@@ -12,3 +12,6 @@ the ArrayList<Integer> wordCount to count the number of occurances of each uniqu
 
 ### COMPLETE code in main method 
 Finish code to call countUniqueWords and print out the results.
+
+# Output
+Your output should be identical to [output.txt](./output.txt)
