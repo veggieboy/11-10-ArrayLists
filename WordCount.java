@@ -30,7 +30,8 @@ public class WordCount {
       countUniqueWords(wordList, wordCount, txt);
       // print out number of unique words found, like: "Number of unique words: 23"
 //-----> YOUR CODE HERE
-      System.out.println("Number of unique words: ");
+      int l=wordList.size();
+      System.out.println("Number of unique words: "+l);
       System.out.println();
       
       System.out.println("Count\tWord ");
@@ -38,7 +39,7 @@ public class WordCount {
 //-----> YOUR CODE HERE
       for (int i=0; i<wordCount.size(); i++)
       {
-      System.out.println(wordList.get(i)+"\t"+wordCount.get(i));
+        System.out.println(wordList.get(i)+"\t"+wordCount.get(i));
       }
     }
     input.close();
